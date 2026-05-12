@@ -1,12 +1,12 @@
 {
-  "name": "mi-proyecto-render",
+  "name": "n8n-en-render",
   "version": "1.0.0",
-  "description": "Proyecto para desplegar en Render",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "n8n start"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "n8n": "latest"
   }
 }
